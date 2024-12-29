@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs
+/CH 27 - Set Up Your Data with Structures/.vs/CH 27 - Set Up Your Data with Structures/v16
